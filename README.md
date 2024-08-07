@@ -1,9 +1,5 @@
 
 # DRFT Party 
-DRFT Party BOT
-
-Register Here : [DRFT Party]([https://t.me/drft_party_bot/game?startapp=6997656464])
-
 
 ## Features
 
